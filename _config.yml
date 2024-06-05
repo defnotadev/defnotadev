@@ -38,8 +38,6 @@ minima:
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
-
 
 defaults:
   scope:
