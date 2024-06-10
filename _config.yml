@@ -31,10 +31,10 @@ twitter_username: mitchtroutman
 github_username:  defnotadev
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.26.1"
-#theme: minima
-#minima:
-#  skin: solarized
+# remote_theme: "mmistakes/minimal-mistakes@4.26.1"
+theme: minima
+minima:
+  skin: solarized
 
 plugins:
   - jekyll-feed
