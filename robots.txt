@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bootlegcoal.github.io/bootlegcoal/sitemap.xml
